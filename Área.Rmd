@@ -3,3 +3,4 @@ title: "Área"
 output: html_document
 ---
 
+Esto es una modificación del archivo.
